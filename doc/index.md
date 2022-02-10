@@ -2,9 +2,9 @@
 
 Hola
 
-Ejemplo de integración continúa para
+Ejemplo de integración continua para
 
 * Esto es una prueba
-* Esto es un ejempl
+* Esto es un ejemplo
 
 
